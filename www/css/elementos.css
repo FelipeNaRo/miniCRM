@@ -1,0 +1,18 @@
+/* mis definiciones de estilos*/
+.profesionLista{
+	font-size: 12px;
+	text-align: right;
+}
+.tituloNombre{
+	font-size: 12px;
+	color: #FF8C00;
+	margin-right: 15px;
+}
+.nombreLista{
+	text-align: right;
+}
+.formulario{
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
